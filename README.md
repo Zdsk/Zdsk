@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Zdsk
+- 👀 I’m interested in Mechatronics and Robotics Machine Vision
+- 🌱 I’m currently learning Machine Learning and Deep Learning
+- 💞️ I’m looking to collaborate on Machine Vision Projects 
